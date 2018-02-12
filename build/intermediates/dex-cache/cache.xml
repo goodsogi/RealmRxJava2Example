@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-jackson/2.3.0/121335a74bc432ab7a3caa5a84548fc9b5915a54/converter-jackson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="121335a74bc432ab7a3caa5a84548fc9b5915a54">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/RealmRxJava2Example/app/build/intermediates/pre-dexed/debug/converter-jackson-2.3.0_b9b5ca52e8ef818b7d5d372657a097eace582640.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.android/build-cache/bb47ab45d52246458ccc07cd8ce1857d3e862910/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/RealmRxJava2Example/app/build/intermediates/pre-dexed/debug/classes_c20d2a1c1e2548694b0d19e76161ce9e68cfda00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.android/build-cache/c85ae7f4c31df49be2b352c222fc9a537de86706/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/RealmRxJava2Example/app/build/intermediates/pre-dexed/debug/classes_33a1b1defad87552f2df8206f22a84e487ecce91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.android/build-cache/7392c3f6503e8e3b0c001aa3fcbf90e4f8b9f5d2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="22c673e65215e0764add61e3102946de895439e4">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/RealmRxJava2Example/app/build/intermediates/pre-dexed/debug/classes_1dbb4bcad951f5f6fb3cac5c5995455a8d1ab2ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.0/2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1/rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/RealmRxJava2Example/app/build/intermediates/pre-dexed/debug/rxjava-2.1.0_c38c9a2c9f93b4e365831f7466328e638549622b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.1/e1bb32b12b25e2f78e6786059ca7ea878f8345e0/support-annotations-26.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1bb32b12b25e2f78e6786059ca7ea878f8345e0">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/RealmRxJava2Example/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.1_a957b9c849d0af77a25066ff8fea953fcf615976.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.android/build-cache/b1a471b3814637ed443a0779f2ad5530ae85e2c3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0e753ea8d0a2dea270da7d96a7d6e9d2e9c10f94">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/RealmRxJava2Example/app/build/intermediates/pre-dexed/debug/classes_1bed60fee37484b7fda02a0cf4b32a3f6fcb1146.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/RealmRxJava2Example/app/build/intermediates/pre-dexed/debug/okio-1.13.0_7ef1556208c2542c9d4069c947c22808f03e4714.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/RealmRxJava2Example/app/build/intermediates/pre-dexed/debug/retrofit-2.3.0_fe6bdf838a6f5d7420c8791bcc2f35f9097db261.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.android/build-cache/742a7e649ebfa02082bf51cf169438003433aa04/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="681eeeaec5300e5257ad9bf889c3859ba3833d5a">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/RealmRxJava2Example/app/build/intermediates/pre-dexed/debug/classes_92b1871f71172bc9448372b47c62442e97cd7289.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.android/build-cache/d7fc14416b452ef9e59849ccd62c434b66d0e257/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/RealmRxJava2Example/app/build/intermediates/pre-dexed/debug/classes_842312b8c119671b68c636358e1efe49839cae3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.android/build-cache/6e9e069659be431a7e72c358e2f968a23703249c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eb305d2ec1f85a4122c5e9d0412c87e20dac20f8">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/RealmRxJava2Example/app/build/intermediates/pre-dexed/debug/classes_a9fbbfbec8cbbe2c2dbc20dc5a22a8e80dbcf08d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/RealmRxJava2Example/app/build/intermediates/pre-dexed/debug/okhttp-3.8.0_609d10806ff05d0614869edf72d2a6f8a6912162.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.7.2/8b8310381b690e317f5f0574e9b2dd7034778b4c/jackson-core-2.7.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8b8310381b690e317f5f0574e9b2dd7034778b4c">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/RealmRxJava2Example/app/build/intermediates/pre-dexed/debug/jackson-core-2.7.2_4f478ac76ee767fd0b013c30a8e88a7fe5f81695.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.android/build-cache/b58ec05345874223b61ae0d76aea67f84f6c3b6d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e3ce4fd2280524e2cf26b6ff4b6e6b115d4382a5">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/RealmRxJava2Example/app/build/intermediates/pre-dexed/debug/classes_5b5f42b8d19d7ea2f483eda203e982faefa01416.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="25ea2e8b0c338a877313bd4672d3fe056ea78f0d">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/RealmRxJava2Example/app/build/intermediates/pre-dexed/debug/jsr305-3.0.2_ff74602806486411beb47cdba21d9388c3f16830.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.android/build-cache/2c02cbc5ed69afd6f3b26f78d42afa32f92135c3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d095503f29a8dedc55b9326ed97a5902a1527ab9">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/RealmRxJava2Example/app/build/intermediates/pre-dexed/debug/classes_20407d61d3255318bbfde1c12f0745a11d38d87f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.gradle/caches/modules-2/files-2.1/io.realm/realm-annotations/4.1.0/c7c7e240f504e75ae8504e1fdbdb20061e2b65f2/realm-annotations-4.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c7c7e240f504e75ae8504e1fdbdb20061e2b65f2">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/RealmRxJava2Example/app/build/intermediates/pre-dexed/debug/realm-annotations-4.1.0_bc96368bf533933f4f6ec5d75ca0c01a513d4481.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.android/build-cache/f526a12955849818e07f900fcffc230d3c1e211e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a4590fa7eadce322ca893129fdc999074e1aa5bf">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/RealmRxJava2Example/app/build/intermediates/pre-dexed/debug/classes_5882a0777a9876532f37a989723f254f3f724369.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.android/build-cache/d656d477bde6a860b7d94ad82a35f8f4ba40020a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7424f816f538c2acfba6169b25e297ea22afbd8">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/RealmRxJava2Example/app/build/intermediates/pre-dexed/debug/classes_4c152a6cd4ed78f9d0030aa4189d31a08ca925fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.7.2/84ffa765dd258dbab8695963c41308b054f3a1cb/jackson-databind-2.7.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="84ffa765dd258dbab8695963c41308b054f3a1cb">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/RealmRxJava2Example/app/build/intermediates/pre-dexed/debug/jackson-databind-2.7.2_4ccf9a1cc2dc2e653e2551823cba31c5d0911887.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava2/2.3.0/f436637f9500ab5b8bc32afe556373180894b4a5/adapter-rxjava2-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f436637f9500ab5b8bc32afe556373180894b4a5">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/RealmRxJava2Example/app/build/intermediates/pre-dexed/debug/adapter-rxjava2-2.3.0_a7a0c34c4780f968c0ef0c10a1034287737faa4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.7.0/19f42c154ffc689f40a77613bc32caeb17d744e3/jackson-annotations-2.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="19f42c154ffc689f40a77613bc32caeb17d744e3">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/RealmRxJava2Example/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.7.0_be69decb503ef3307fd09e2722c07938edab6729.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.android/build-cache/a3b99034ac5bdf62de8a758529b125c5d0a0fc43/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="083e7bc5a9d9404b49b8f34e5091532361fa28e6">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/RealmRxJava2Example/app/build/intermediates/pre-dexed/debug/classes_2f80555304aede7027ec7d5bbf3c3dd0ace52470.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha8/constraint-layout-solver-1.0.0-alpha8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="80c371a4fd5e1b77f0e3a25b171356878543ffdd">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/RealmRxJava2Example/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-alpha8_a57a513e1e24f4f1f45768e01087eeb85007f904.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.android/build-cache/b78149f9f1ea92dbfa9d93f426622555fa005e97/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dff4d8f88fe2c0e57306e6981fd9b90caeead7e3">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/RealmRxJava2Example/app/build/intermediates/pre-dexed/debug/classes_836819634ea9a0ac60f12dc597fc67b511dc4ca0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.android/build-cache/d63e2ba8169e4ea8ac2ad2ab7a9ce0b0749ff84f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="71af915b7f4f7ec0b5f768b365145bb6a5cb9a66">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/RealmRxJava2Example/app/build/intermediates/pre-dexed/debug/classes_a0a4b368652bfc552027927a02a23fc29f0156b3.jar" />
+    </item>
+
+</items>

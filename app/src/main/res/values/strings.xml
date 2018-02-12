@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RealmRxJava2Example</string>
+    <string name="default_message">Use the Source, Luke!</string>
+    <string name="search">Search</string>
+    <string name="status_output">Status Output…</string>
+</resources>
